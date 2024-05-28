@@ -1,0 +1,11 @@
+cardboard
+clothes
+food
+glass
+metal
+paper
+plastic
+plastic bag
+trash
+wood
+shoe

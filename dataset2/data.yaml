@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 13
+names: ['-', '- annotate- and create datasets', '- collaborate with your team on computer vision projects', '- collect - organize images', '- export- train- and deploy computer vision models', '- understand and search unstructured image data', '- use active learning to improve your dataset over time', 'For state of the art Computer Vision training notebooks you can use with this dataset-', 'Roboflow is an end-to-end computer vision platform that helps you', 'This dataset was exported via roboflow.com on May 16- 2024 at 12-18 AM GMT', 'To find over 100k other datasets and pre-trained models- visit https-universe.roboflow.com', 'aaa - v5 2024-05-16 6-55am', 'visit https-github.com-roboflow-notebooks']
+
+roboflow:
+  workspace: test-data-hx3re
+  project: 121-nev8p
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-data-hx3re/121-nev8p/dataset/4

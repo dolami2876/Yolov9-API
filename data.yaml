@@ -1,0 +1,7 @@
+path: ../content/drive/MyDrive/yolov9/dataset
+train: /content/drive/MyDrive/yolov9/dataset/images
+val: /content/drive/MyDrive/yolov9/dataset/images
+test: #testimage
+
+nc: 11
+names: ['cardboard', 'clothes', 'food', 'glass', 'metal', 'paper', 'plastic', 'plastic bag', 'trash', 'wood', 'shoe']

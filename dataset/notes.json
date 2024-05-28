@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "cardboard"
+    },
+    {
+      "id": 1,
+      "name": "clothes"
+    },
+    {
+      "id": 2,
+      "name": "food"
+    },
+    {
+      "id": 3,
+      "name": "glass"
+    },
+    {
+      "id": 4,
+      "name": "metal"
+    },
+    {
+      "id": 5,
+      "name": "paper"
+    },
+    {
+      "id": 6,
+      "name": "plastic"
+    },
+    {
+      "id": 7,
+      "name": "plastic bag"
+    },
+    {
+      "id": 8,
+      "name": "trash"
+    },
+    {
+      "id": 9,
+      "name": "wood"
+    },
+    {
+      "id": 10,
+      "name": "shoe"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
